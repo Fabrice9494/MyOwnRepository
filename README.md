@@ -1,2 +1,2 @@
 # MyOwnRepository
-Home repository off Fabrice
+Home repository of Fabrice
